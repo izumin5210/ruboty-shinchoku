@@ -1,7 +1,7 @@
-require "ruboty/shinchoku/version"
+require "tumblr_client"
+require "tumblr/random_image"
 
-module Ruboty
-  module Shinchoku
-    # Your code goes here...
-  end
-end
+require "ruboty"
+require "ruboty/shinchoku/version"
+require "ruboty/shinchoku/actions/get_ramdom_image"
+require "ruboty/handlers/shinchoku"
