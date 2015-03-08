@@ -6,7 +6,8 @@ module Ruboty
       on(
         /.*(進捗).*/,
         name: 'shinchoku',
-        description: 'Get random image from shinchokudodesuka.tumblr.com'
+        description: 'Get random image from shinchokudodesuka.tumblr.com',
+        all: true
       )
 
       def shinchoku(message)
