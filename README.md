@@ -1,26 +1,19 @@
 # Ruboty::Shinchoku
 
-TODO: Write a gem description
+How is *shinchoku*?
 
-## Installation
-
-Add this line to your application's Gemfile:
+## Install
 
 ```ruby
 gem 'ruboty-shinchoku'
 ```
 
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install ruboty-shinchoku
-
 ## Usage
 
-TODO: Write usage instructions here
+```
+進捗
+http://40.media.tumblr.com/a46e2acce95970c9a46c58d25487af5a/tumblr_mzxh9xD3XJ1sckns5o1_1280.jpg
+```
 
 ## Contributing
 
