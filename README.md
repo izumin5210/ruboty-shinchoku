@@ -17,7 +17,7 @@ http://40.media.tumblr.com/a46e2acce95970c9a46c58d25487af5a/tumblr_mzxh9xD3XJ1sc
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/ruboty-shinchoku/fork )
+1. Fork it ( https://github.com/izumin5210/ruboty-shinchoku/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
