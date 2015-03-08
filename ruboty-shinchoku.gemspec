@@ -8,9 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Ruboty::Shinchoku::VERSION
   spec.authors       = ["izumin5210"]
   spec.email         = ["masayuki@izumin.info"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = "How is shinchoku?"
+  spec.homepage      = "https://github.com/izumin5210/ruboty-shinchoku"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
